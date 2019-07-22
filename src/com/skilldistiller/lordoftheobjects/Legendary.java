@@ -1,12 +1,15 @@
 package com.skilldistiller.lordoftheobjects;
 
-public class LordOftheObjectsApp
+
+public class Legendary
 {
 
 	public static void main(String[] args)
 	{
-		// TODO Auto-generated method stub
-
+		GameApp game = new GameApp();
+		game.play();
+		
+	
 	}
-
+	
 }
